@@ -1,0 +1,2 @@
+For the FasterRCNN model, we used a <a href="https://github.com/mat02/Mask_RCNN">fork of the Matterport MaskRCNN</a> library. Unlike the original paper, our fasterRCNN is built with ROI Align. As for the dataset, we annotated 100 images containing faces ourselves using the VGG VIA Annotator. The results of the training can be seen below:-
+You can also try your own images on this model:- 
