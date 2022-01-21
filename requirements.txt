@@ -8,5 +8,5 @@ scikit_image==0.16.2
 streamlit==0.61.0
 Keras==2.2.3
 opencv_contrib_python==4.1.2.30
-ipython==7.15.0
+ipython==7.16.3
 Pillow==7.1.2
